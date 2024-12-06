@@ -49,4 +49,5 @@ __all__ = [
     # Document upload functions
     "read_file_content",
     "generate_document_summary",
-    "process_uploaded_tc",
+    "process_uploaded_tc"
+]
